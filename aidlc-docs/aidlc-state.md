@@ -4,7 +4,7 @@
 - **Project Type**: Greenfield
 - **Start Date**: 2026-09-24T16:21:59Z
 - **Current Phase**: INCEPTION
-- **Current Stage**: Requirements Analysis
+- **Current Stage**: Requirements Analysis - Awaiting Approval
 
 ## Workspace State
 - **Existing Code**: No
@@ -16,13 +16,15 @@
 - **Documentation**: aidlc-docs/ only
 
 ## Extension Configuration
-- **Security Baseline**: Pending user decision
-- **Resiliency Baseline**: Pending user decision
-- **Property-Based Testing**: Pending user decision
+| Extension | Enabled | Decided At |
+|---|---|---|
+| Security Baseline | Yes | Requirements Analysis |
+| Resiliency Baseline | No | Requirements Analysis |
+| Property-Based Testing | Partial: pure functions and serialization round-trips | Requirements Analysis |
 
 ## Stage Progress
 - [x] INCEPTION - Workspace Detection
-- [ ] INCEPTION - Requirements Analysis
+- [x] INCEPTION - Requirements Analysis
 - [ ] INCEPTION - User Stories (assessment pending)
 - [ ] INCEPTION - Workflow Planning
 - [ ] INCEPTION - Application Design (assessment pending)
