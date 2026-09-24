@@ -13,7 +13,7 @@ C) Java, Spring Boot, and PostgreSQL
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: Node.js, TypeScript, Express, and MongoDB since creating an instance would be easy their
 
 ## Question 2
 What authentication approach should the API provide?
@@ -26,7 +26,7 @@ C) External identity provider only (for example, OAuth or OpenID Connect)
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: C
 
 ## Question 3
 Who can access and modify a task?
@@ -39,7 +39,7 @@ C) Shared team workspace with role-based access
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]:  C
 
 ## Question 4
 Which task fields and lifecycle are required beyond title, priority, and due date?
@@ -52,7 +52,7 @@ C) Title, description, status, priority, due date, recurrence, and tags
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: A
 
 ## Question 5
 What priority model should apply?
@@ -65,7 +65,7 @@ C) Numeric priority from 1 through 5
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: A
 
 ## Question 6
 How should the task collection endpoint support retrieval?
@@ -78,7 +78,7 @@ C) Pagination, filters, and sortable fields
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: B
 
 ## Question 7
 What delivery target and operational expectations apply to this first version?
@@ -91,7 +91,7 @@ C) Production deployment target must be designed now
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: I'm planning to deploy this on vercel as of now. So you can select which option would be good here
 
 ## Question 8
 Should the Security Baseline extension be enforced as blocking constraints?
@@ -102,7 +102,7 @@ B) No, skip the security rules
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: A
 
 ## Question 9
 Should the Resiliency Baseline be applied as directional design-time guidance?
@@ -113,7 +113,7 @@ B) No, skip the resiliency baseline
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: A
 
 ## Question 10
 Should Property-Based Testing rules be enforced?
@@ -126,4 +126,4 @@ C) No, skip property-based testing rules
 
 X) Other (please describe after [Answer]: tag below)
 
-[Answer]:
+[Answer]: B
